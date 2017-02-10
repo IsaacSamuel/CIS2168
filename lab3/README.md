@@ -12,9 +12,15 @@ In other words, we successively remove the kth person from the list.
 
 Here are examples of rings with n people and every kth person is removed from
 the ring. For a ring of n = 5 and the count k= 2:
+
 1
+
 1 ==> 2 ==> 3 ==> 4 ==> 5 ==>
+
 1 ==> 3 ==> 4 ==> 5 ==>
+
 1 ==> 3 ==> 5 ==>
+
 3 ==> 5 ==>
+
 3
